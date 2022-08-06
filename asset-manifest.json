@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e954008e.css",
+    "main.js": "./static/js/main.2ab3e3f1.js",
+    "static/media/azadi.png": "./static/media/azadi.de5f60ec09a64c945e6f.png",
+    "static/media/9wkdtx6.jpg": "./static/media/9wkdtx6.ac08fcce4a2477aa4331.jpg",
+    "static/media/bjp.png": "./static/media/bjp.b5af94649dba6bf771ed.png",
+    "static/media/aap.png": "./static/media/aap.74b5f889d85cb59725ae.png",
+    "static/media/modi.jpg": "./static/media/modi.8924d30eb9bd18c41f78.jpg",
+    "static/media/priyanka.jpg": "./static/media/priyanka.4b741b5e13225014f0a8.jpg",
+    "static/media/kejriwal.jpg": "./static/media/kejriwal.83ce10ad168ca8b342ed.jpg",
+    "index.html": "./index.html",
+    "main.e954008e.css.map": "./static/css/main.e954008e.css.map",
+    "main.2ab3e3f1.js.map": "./static/js/main.2ab3e3f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e954008e.css",
+    "static/js/main.2ab3e3f1.js"
+  ]
+}
