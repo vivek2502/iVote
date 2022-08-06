@@ -62,6 +62,23 @@ Tools : VS Code, etherscan.io
 
 ![image](https://user-images.githubusercontent.com/42957988/183245072-b6c8c9dc-e7c8-4f3e-944b-1b9c21377de9.png)
 
+
+## 🔧 Prerequisite -> Node js need to install
+
+  $ node -v
+  
+  $ npm install
+  
+  $ npm uninstall -g truffle
+  
+  $ npm install -g truffle@5.1.14
+  
+  $ truffle compile
+  
+  $ truffle deploy --network rinkeby
+  
+  $ npm start
+
 ## 👫 Contributors
   - [Vivek Kumar](http://www.viveksde.in/)
   - [Ravi Kumawat]([https://www.linkedin.com/in/vivek-kumar-a7102316b/](https://github.com/Ravi-900))
